@@ -1,0 +1,9 @@
+{
+  "name": "gressa/novella",
+  "type": "project",
+  "require": {
+    "phroute/phroute": "^2.1",
+    "retailcrm/api-client-php": "~5.0"
+  },
+  "license": "mit"
+}
